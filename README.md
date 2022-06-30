@@ -7,16 +7,16 @@ Comecei o projeto desenvolvendo para mobile e adicionando suas funcionalidades, 
 
 ## Funcionalidades
 - Mobile
--- Menu
--- Abrir cesta de compras
--- Carousel animado com Prev e Next
--- Selecionar quantidade com botões
+- Menu
+- Abrir cesta de compras
+- Carousel animado com Prev e Next
+- Selecionar quantidade com botões
 
 - Desktop
--- Abrir cesta de compras
--- Carousel animado selecionando por imagem do produto
--- Selecionar quantidade com botões
--- Lightbox com todas as fotos do produto
--- Lightbox com carousel animado 
+- Abrir cesta de compras
+- Carousel animado selecionando por imagem do produto
+- Selecionar quantidade com botões
+- Lightbox com todas as fotos do produto
+- Lightbox com carousel animado 
 
-Tenho ideia posteriomente em consumir os produtos com Json, colocando os itens selecionados na cesta e vê-los no carrinho assim como fiz no meu Projeto do [potion E-commerce](https://anderecc.github.io/potionE-commerce/)
+Tenho ideia posteriomente em consumir os produtos com Json, colocando os itens selecionados na cesta e vê-los no carrinho assim como fiz no meu Projeto do [potion E-commerce](https://anderecc.github.io/potionE-commerce/).
