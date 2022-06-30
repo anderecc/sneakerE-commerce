@@ -6,13 +6,13 @@ Gostei muito do resultado que tive tanto com o código que tentei deixar o mais 
 Comecei o projeto desenvolvendo para mobile e adicionando suas funcionalidades, no desktop só adicionei as demais funcionalidades como o lightbox e seu carousel.
 
 ## Funcionalidades
-- Mobile
+#### Mobile
 - Menu
 - Abrir cesta de compras
 - Carousel animado com Prev e Next
 - Selecionar quantidade com botões
 
-- Desktop
+#### Desktop
 - Abrir cesta de compras
 - Carousel animado selecionando por imagem do produto
 - Selecionar quantidade com botões
